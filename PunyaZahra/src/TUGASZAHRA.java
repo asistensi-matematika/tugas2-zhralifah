@@ -285,7 +285,7 @@ String tampungn = jTextField1.getText();
             break;
         }
     }
-      jTextField4.setText(String.valueOf(g));
+      jTextField4.setText(String.valueOf(function));
     }//GEN-LAST:event_jButton3ActionPerformed
 
     /**

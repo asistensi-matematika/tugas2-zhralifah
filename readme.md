@@ -1,7 +1,7 @@
 # TUGAS 2 ASISTENSI ALPRO - Sabtu , 04 Mei 2019
-NAMA:   
+NAMA:   Zahra Nur Alifah
 
-NRP:    
+NRP:    06111840000040
 
 
 ## DESKRIPSI SOAL
